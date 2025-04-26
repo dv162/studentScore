@@ -1,5 +1,6 @@
 # Student Score Prediction
 This project demonstrates the application of machine learning techniques to predict math scores based on various student attributes such as reading scores, writing scores, parental education level, gender, lunch type, and test preparation course participation.
+![Image](https://github.com/user-attachments/assets/7b5ce9ae-546a-47eb-8cdd-32f7ff4df1e8)
 
 # 📊 Overview
 The goal of this project is to create a predictive model that can estimate a student's math score based on other personal and academic factors. This is a regression problem where the target variable is the math score.
